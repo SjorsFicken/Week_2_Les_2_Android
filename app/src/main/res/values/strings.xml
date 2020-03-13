@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Service App</string>
+    <string name="channel_name">pokemonChannel</string>
+    <string name="channel_description">Sends notifications about new favorite pokemon</string>
+</resources>
